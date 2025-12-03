@@ -14,11 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pac-Man graph
+      - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Cipher1712
-          output: pacman.svg   # IMPORTANT: single output file
+          output: pacman.svg   # IMPORTANT
 
       - name: Move output to dist folder
         run: |
