@@ -2,7 +2,7 @@
 
 <img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVzZzhnMHRiODgyZXBhNTkzdW1jZWkwaTh1cGxjNHZtM210ajdpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif" />
 
-<h4 align="center">
+<h4 align="left">
 I work across VLSI systems, autonomous mobility architectures, blockchain-backed V2X trust frameworks, and embedded machine learning for real-time perception and security.  
 I focus on secure mobility infrastructure, edge intelligence, real-time robotics perception, and hardware–software co-optimized systems.  
 My work spans embedded systems, CARLA-based AV simulations, ROS/SLAM robotics, trust scoring using blockchain, and deep learning for sensor processing.
