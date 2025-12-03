@@ -1,4 +1,4 @@
-name: Pacman Graph
+name: Generate Pacman Graph
 
 on:
   schedule:
@@ -15,10 +15,11 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Pac-Man graph
-        uses: Platane/pacman@main
+        uses: Platane/snk@v3
         with:
           github_user_name: Cipher1712
-          output_path: dist/pacman.svg
+          outputs: dist/pacman.svg
+          mode: pacman
 
       - name: Commit Pac-Man graph to output branch
         uses: stefanzweifel/git-auto-commit-action@v5
