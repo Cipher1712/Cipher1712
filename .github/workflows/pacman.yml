@@ -1,29 +1,37 @@
-name: Generate Pacman Graph
+name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  pacman:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Generate Pac-Man graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Cipher1712
-          outputs: dist/pacman.svg
-          mode: pacman
+      - name: Create dist folder
+        run: mkdir -p dist
 
-      - name: Commit Pac-Man graph to output branch
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          commit_message: "Generate Pac-Man Graph"
-          branch: output
-          file_pattern: dist/pacman.svg
+          github_user_name: ${{ github.repository_owner }}
+          output_path: dist/pacman-contribution-graph.svg
+
+      - name: Push pacman-contribution-graph.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
