@@ -10,59 +10,62 @@ My work spans embedded systems, CARLA-based AV simulations, ROS/SLAM robotics, t
 
 ---
 
-<br clear="both"/>
+# <h2 align="center">🧰 Tech Stack</h2>
 
-# 🧰 Tech Stack
-
+### <h3 align="center">🖥️ Web & Frontend</h3>
 <div align="center">
-
-<!-- Row 1 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38"/>
+</div>
+
+### <h3 align="center">🔧 Core Programming & Systems</h3>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="38"/>
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38"/>
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="38"/>
+</div>
 
-<br/><br/>
-
-<!-- Row 2 -->
+### <h3 align="center">🤖 AI / ML / Scientific Computing</h3>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="38"/>
+</div>
+
+### <h3 align="center">📦 Cloud & DevOps</h3>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38"/>
-<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="38"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="38"/>
+</div>
 
-<br/><br/>
-
-<!-- Row 3 -->
+### <h3 align="center">🛰️ VLSI, Embedded & Robotics</h3>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="38"/>
-<img src="https://skillicons.dev/icons?i=vercel" height="38"/>
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38"/>
-<img src="https://skillicons.dev/icons?i=postman" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="38"/>
+<img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38"/>
-
 </div>
 
 ---
 
-# 🔗 Connect With Me
+# <h2 align="center">🔗 Connect With Me</h2>
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/raagmanasmadhukar/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
 </a>
 
-<a href="mailto:raagmanasmadhukar1712@gmail.com" target="_blank">
+<a href="mailto:raagmanasmadhukar1712@gmail.com">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
 </a>
 
@@ -73,12 +76,11 @@ My work spans embedded systems, CARLA-based AV simulations, ROS/SLAM robotics, t
 <a href="https://discordapp.com/users/804333353393192961" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35"/>
 </a>
-
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -92,24 +94,24 @@ My work spans embedded systems, CARLA-based AV simulations, ROS/SLAM robotics, t
 
 ---
 
-# 🐍 Snake Animation  
-*(Will appear after workflow runs)*
-
+# <h2 align="center">🐍 Snake Animation</h2>
+<div align="center">
 <img src="https://raw.githubusercontent.com/Cipher1712/Cipher1712/output/snake.svg"/>
+</div>
 
 ---
 
-# 👾 Pac-Man Contribution Graph  
-*(Appears after pacman workflow runs)*
-
+# <h2 align="center">👾 Pac-Man Contribution Graph</h2>
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cipher1712/Cipher1712/output/pacman-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/Cipher1712/Cipher1712/output/pacman-contribution-graph.svg">
 </picture>
+</div>
 
 ---
 
-# 🎧 Spotify Recently Played
+# <h2 align="center">🎧 Spotify Recently Played</h2>
 
 <div align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mgvwi3sklycunisdsxefekbly&count=5&unique=false" height="300"/>
